@@ -31,7 +31,8 @@ Designed and implemented a small office network for a West Seattle environment u
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
+<img width="1437" height="623" alt="Screenshot 2026-03-24 215546" src="https://github.com/user-attachments/assets/f9e9f948-cb61-4a7d-a25c-a7ae060e4ceb" />
+
 
 ---
 
